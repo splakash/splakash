@@ -44,11 +44,11 @@
   </tr>
   <tr>
     <td>
-      Frameworks
+      Backend Frameworks
     </td>
     <td>
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=flask&theme=dark">
-              <img height="40" src="https://skillicons.dev/icons?i=flask&theme=dark"
+              <img height="40" src="https://skillicons.dev/icons?i=Spring-boot&theme=dark"
           data-canonical-src="https://skillicons.dev/icons?i=flask&theme=dark" style="max-            width:100%;">
           </a>
      <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=streamlit&theme=dark">
