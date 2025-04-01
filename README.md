@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akash_kumar
 - 👀 I’m interested in full stack web development and machine learning .
 - 🌱 I’m currently learning Backend development.
-- 💞️ I’m looking to collaborate on a project related to data science.
+- 💞️ I’m looking to collaborate on a project related to web development and data science.
 - 📫 How to reach me bilsinak@gmail.com .
 <hr>
 <table>
