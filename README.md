@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akash_kumar
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning Data science .
+- 👀 I’m interested in full stack web development and machine learning .
+- 🌱 I’m currently learning Backend development.
 - 💞️ I’m looking to collaborate on a project related to data science.
 - 📫 How to reach me bilsinak@gmail.com .
 <hr>
