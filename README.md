@@ -48,7 +48,7 @@
     </td>
     <td>
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=flask&theme=dark">
-              <img height="40" src="https://skillicons.dev/icons?i=Spring-boot&theme=dark"
+              <img height="40" src="https://skillicons.dev/icons?i=Spring-boot&theme=dark](https://icons8.com/icon/90519/spring-boot)"
           data-canonical-src="https://skillicons.dev/icons?i=flask&theme=dark" style="max-            width:100%;">
           </a>
      <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=streamlit&theme=dark">
